@@ -1,2 +1,4 @@
 Data/*csv filter=lfs diff=lfs merge=lfs -text
 Data/*.csv filter=lfs diff=lfs merge=lfs -text
+Data/data_37.csv filter=lfs diff=lfs merge=lfs -text
+Data/nanContent.csv filter=lfs diff=lfs merge=lfs -text
